@@ -60,5 +60,5 @@ El código ejecutable es el resultado final preparado para poder ejecutar el pro
 
 
 
-\[Enlace a mi repositorio de GitHub](PEGA\_AQUI\_TU\_URL)
+https://github.com/dariotorre148/1DAMP\_Torre\_Dario
 
