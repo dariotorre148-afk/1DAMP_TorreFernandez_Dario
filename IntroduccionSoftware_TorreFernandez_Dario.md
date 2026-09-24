@@ -29,7 +29,7 @@ El código ejecutable es el programa preparado para poder ser ejecutado por el s
 
 ## Imagen
 
-![Etapas del desarrollo del software](C:\Users\dario\Documents\1DAMP_TorreFernandez_Dario\GitHub.jpg)
+![Etapas del desarrollo del software](GitHub.jpg)
 
 ## Repositorio
 
