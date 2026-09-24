@@ -60,5 +60,5 @@ El código ejecutable es el resultado final preparado para poder ejecutar el pro
 
 
 
-https://github.com/dariotorre148/1DAMP\_Torre\_Dario
+IntroduccionSoftware\_TorreFernandez\_Dario.md
 
